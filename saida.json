@@ -1,0 +1,72 @@
+[
+  {
+    "id": 199724,
+    "name": "Teclado Gamer Corsair K55",
+    "price": 300.0,
+    "category": "Acessórios",
+    "quantity": 0
+  },
+  {
+    "id": 2022157,
+    "name": "Monitor Asus Gamer Preto VG248QE",
+    "quantity": 6,
+    "price": 1888.23,
+    "category": "Acessórios"
+  },
+  {
+    "id": 2224545,
+    "name": "Smartphone Samsung Galaxy S8 Plus",
+    "quantity": 18,
+    "price": 1788.30,
+    "category": "Eletrônicos"
+  },
+  {
+    "id": 9517536,
+    "name": "Mesa Gamer Gamemax",
+    "quantity": 4,
+    "price": 280.0,
+    "category": "Móveis"
+  },
+  {
+    "id": 9547852,
+    "name": "Gabinete Gamer Corsair Branco",
+    "quantity": 26,
+    "price": 190.0,
+    "category": "Acessórios"
+  },
+  {
+    "id": 1472583,
+    "name": "Cadeira Gamermax Confortplus",
+    "price": 942.90,
+    "category": "Acessórios",
+    "quantity": 0
+  },
+  {
+    "id": 25168352,
+    "name": "Kit upgrade i7700k + 16GB Memória RAM Corsair DDR4",
+    "quantity": 9,
+    "price": 2128.90,
+    "category": "Eletrônicos"
+  },
+  {
+    "id": 74658932,
+    "name": "Smart TV Full HD LG LED 42",
+    "quantity": 0,
+    "price": 2299.42,
+    "category": "Eletrônicos"
+  },
+  {
+    "id": 14369256,
+    "name": "Som Autômotivo Pioneer Black Edition",
+    "quantity": 18,
+    "price": 1700.0,
+    "category": "Eletrônicos"
+  },
+  {
+    "id": 98745612,
+    "name": "Mouse Gamer Razer Deathadder Elite 16.000 DPI",
+    "quantity": 3,
+    "price": 389.84,
+    "category": "Eletrônicos"
+  }
+]
